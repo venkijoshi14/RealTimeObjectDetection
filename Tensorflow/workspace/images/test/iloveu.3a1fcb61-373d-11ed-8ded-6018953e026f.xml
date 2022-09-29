@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>iloveu.3a1fcb61-373d-11ed-8ded-6018953e026f.jpg</filename>
+	<path>C:\Users\venka\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\iloveu.3a1fcb61-373d-11ed-8ded-6018953e026f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I Love You</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>155</ymin>
+			<xmax>315</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+</annotation>
